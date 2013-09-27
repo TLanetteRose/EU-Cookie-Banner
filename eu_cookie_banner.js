@@ -1,5 +1,3 @@
-/ JavaScript Document
-
 // Creare's 'Implied Consent' EU Cookie Law Banner v:2.2
 // Conceived by Robert Kent, James Bavington & Tom Foyster
  
