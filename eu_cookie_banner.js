@@ -55,3 +55,8 @@ window.onload = function(){
         createDiv(); 
     }
 }
+
+function removeMe(){
+	var element = document.getElementById('cookie-law');
+	element.parentNode.removeChild(element);
+}
