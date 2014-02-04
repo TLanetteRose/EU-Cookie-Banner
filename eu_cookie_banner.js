@@ -1,4 +1,4 @@
-// Creare's 'Implied Consent' EU Cookie Law Banner v:2.3
+// Creare's 'Implied Consent' EU Cookie Law Banner v:2.4
 // Conceived by Robert Kent, James Bavington & Tom Foyster
  
 var dropCookie = true;                      // false disables the Cookie, allowing you to style the banner
